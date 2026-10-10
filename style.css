@@ -1,0 +1,16 @@
+body{
+background-color:rgb(173, 146, 146);
+display: flex;
+justify-content: center;
+align-items: center;
+    
+}
+
+.form-card{
+background-color: white;
+width: 100%;
+max-width: 440px;
+padding: 32px;
+border-radius: 12px;
+}
+
